@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "新しい文明開化",
+  "base_artist": "東京事変",
+  "createdAt": "2026-04-01T12:32:56.281137Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "新しい文明開化",
+      "artist": "Tokyo Incidents",
+      "has_synced": true,
+      "path": "select/01_新しい文明開化_Tokyo_Incidents.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "新しい文明開化",
+      "artist": "Tokyo Jihen",
+      "has_synced": true,
+      "path": "select/02_新しい文明開化_Tokyo_Jihen.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "新しい文明開化 (Bon Voyageより)",
+      "artist": "Tokyo Incidents",
+      "has_synced": true,
+      "path": "select/03_新しい文明開化_(Bon_Voyageより)_Tokyo_Incidents.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "新しい文明開化",
+      "artist": "Tokyo Jihen (東京事変)",
+      "has_synced": true,
+      "path": "select/04_新しい文明開化_Tokyo_Jihen_(東京事変).lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "新しい文明開化",
+      "artist": "東京事変",
+      "has_synced": false,
+      "path": "select/pl_01_新しい文明開化_東京事変.txt"
+    }
+  ]
+}
